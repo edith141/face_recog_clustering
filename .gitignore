@@ -139,6 +139,9 @@ pvenv/
 # Rope project settings
 .ropeproject
 
+# datasets and models
+data_sets/
+data_models/
 # mkdocs documentation
 /site
 
